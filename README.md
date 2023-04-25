@@ -19,5 +19,9 @@ kazeron.json 簡易排版
   * MOUSE (未調速，應該要自行調整deadzone使它效果更好)
   * SCROLL (使用qmk內建按鍵功能)
   * JOYSTICK (連上電腦後需使用windows內建搖桿校正)
+  
+```  
+make kazeron:via
+```
 
 
