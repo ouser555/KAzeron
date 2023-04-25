@@ -1,0 +1,67 @@
+{
+    "name": "KAzeron",
+    "vendorId": "0xFE1D",
+    "productId": "0x6061",
+    "matrix": {"rows": 3, "cols": 5},
+    "customKeycodes": [
+      {
+        "name": "QWERTY",
+        "title": "Normal key",
+        "shortName": "QWERTY"
+      },
+      {
+        "name": "LOWER",
+        "title": "LOWER key",
+        "shortName": "LOWER"
+      },
+      {
+        "name": "RAISE",
+        "title": "RAISE key",
+        "shortName": "RAISE"
+      },
+      {
+        "name": "ADJUST",
+        "title": "ADJUST key",
+        "shortName": "ADJUST"
+      },
+      {
+        "name": "JOYSITKMOD",
+        "title": "JOY MODE",
+        "shortName": "JMOD"
+      }
+  ],
+    "layouts": {
+        "keymap": [
+    [
+      {
+        "x": 1
+      },
+      "0,0",
+      "0,1",
+      "0,2",
+      "0,3",
+      "0,4"
+    ],
+    [
+      {
+        "x": 1
+      },
+      "1,0",
+      "1,1",
+      "1,2",
+      "1,3",
+      "1,4"
+    ],
+    [
+      {
+        "x": 1
+      },
+      "2,0",
+      "2,1",
+      "2,2",
+      "2,3",
+      "2,4"
+    ]
+    ]
+    }
+  }
