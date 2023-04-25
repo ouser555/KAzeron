@@ -5,7 +5,7 @@ qmk firmware for
 https://www.instructables.com/Azeron-Game-Pad-DIY-Under-35/
 
 使用Arduino promicro
-接線圖與來源一樣
+接線圖與機構都跟來源一樣
 
 QMK Firmware 0.20.4
 qmk後續版本會改一些東西，可能會不會適用，建議使用同版本
